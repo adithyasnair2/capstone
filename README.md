@@ -1,7 +1,7 @@
 # capstone
 ## Project Overview
 
-For the final capstone implementation, I have stuck to the AI-based model as my main extraction pipeline.
+For the final capstone (final_model_1.0) implementation, I have stuck to the AI-based model as my main extraction pipeline.
 The earlier version, which relied purely on regex and keyword matching, was limited in accuracy and could only detect a few pre-defined geological terms. It also struggled with variations in sentence structure and contextual references.
 Hence, this final model focuses on page-aware, schema-guided extraction using a lightweight GPT-4o-mini agent, ensuring higher contextual precision and structured output across all geology-related entities.
 
