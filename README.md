@@ -2,7 +2,7 @@
 ## Project Overview
 
 For the final capstone (final_model_1.0) implementation, I have stuck to the AI-based model as my main extraction pipeline.
-The earlier version, which relied purely on regex and keyword matching, was limited in accuracy and could only detect a few pre-defined geological terms. It also struggled with variations in sentence structure and contextual references.
+The earlier version (model_2_llm+_extraction (1).ipynb), which relied purely on regex, keyword matching and llm, was limited in accuracy and could only detect a few pre-defined geological terms. It also struggled with variations in sentence structure and contextual references.
 Hence, this final model focuses on page-aware, schema-guided extraction using a lightweight GPT-4o-mini agent, ensuring higher contextual precision and structured output across all geology-related entities.
 
 ## Model Workflow Summary
@@ -33,8 +33,8 @@ Duplicate entities from multiple pages are merged while keeping page references,
 
 ## Output
 Final deliverables:
-extracted.json → full structured page wise JSON output.
-extracted_flat_ref.csv → flattened, reference aware CSV ready for geodatabase import.
+extracted.json -> full structured page wise JSON output.
+extracted_flat_ref.csv -> flattened, reference aware CSV ready for geodatabase import.
 Each row maps a geological entity to its relevant section, field, and all page references.
 
 # Key Features and Advantages
@@ -42,7 +42,7 @@ Page-Referenced AI Extraction — every entry maintains its original source loca
 Schema-Guided Consistency — ensures uniform JSON structure across PDFs.
 Contextual Understanding — captures implicit geological relationships missed by regex.
 Cleaned Input Text — abstracts and references removed to improve prompt accuracy.
-Reference - Aware CSV — merges repeated mentions into unified, verifiable records.
+Reference - Aware CSV - merges repeated mentions into unified, verifiable records.
 
 # Pipeline
-PDF → Text Extraction → AI → JSON → CSV
+PDF -> Text Extraction -> AI -> JSON -> CSV
