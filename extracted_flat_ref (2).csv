@@ -1,0 +1,393 @@
+﻿section,field,value,pages
+metadata,title,RELATIVE TIMING OF STRUCTURAL EVENTS: THE MARKOYE FAULT AND ITS ASSOCIATION TO GOLD MINERALISATION,1
+metadata,author,ASINNE TSHIBUBUDZE,1
+metadata,year,2007,"1, 17"
+metadata,supervisor,Prof. Kim A.A Hein,1
+metadata,institution,University of the Witwatersrand,1
+metadata,location,"Johannesburg, South Africa",1
+geology,rock_types,"['Greywacke', 'Siltstone', 'Volcanoclastic Greywacke', 'Conglomerate', 'Laterite', 'Biotite Granite', 'Adamellite', 'Yacouba Mafic Complex', 'Granodiorite', 'Tonalite', 'Dolerite']",5
+geology,structures,"['Markoye Fault', 'Markoye Shear Zone']",5
+metadata,title,Regional Lithological and Structural Mapping of the Essakane Goldfield,6
+metadata,author,Unknown,"21, 33, 35, 50, 51, 54, 6, 7, 73, 76, 8"
+metadata,year,2023,"19, 21, 33, 35, 47, 49, 50, 51, 54, 6, 7, 73, 76, 8"
+metadata,supervisor,Unknown,"21, 33, 35, 50, 51, 54, 6, 7, 76, 8"
+metadata,institution,Unknown,"21, 33, 35, 50, 51, 54, 6, 7, 76, 8"
+metadata,location,Burkina Faso,"10, 14, 21, 6, 7, 8, 9"
+geology,region,Burkina Faso,"13, 21, 57, 6, 7, 8"
+geology,formation,Birimian sequences,"10, 11, 51, 6"
+geology,rock_types,"['meta-volcanoclastic greywackes', 'metaconglomerate', 'meta-sandstone-greywacke', 'siltstone', 'shale']",6
+geology,structures,"['Markoye fault', 'asymmetric folds', 'thrusts', 'mylonite', 'ultramylonite zone', 'pseudotachylyte veins', 'buck quartz-carbonate veins', 'quartz iron-rich catalasite vein', 'quartz-chlorite shears']",6
+geology,tectonic_setting,shallow marine continental shelf environment,6
+geochronology,sample_id,Unknown,"21, 35, 50, 51, 54, 6, 7, 76"
+geochronology,method,Unknown,"21, 35, 54, 6, 7, 76"
+geochronology,age_Ma,2100.0,6
+geochronology,rock_unit,Unknown,"35, 54, 6, 7, 76"
+geochronology,evidence,Correlated to the Eburnean Orogeny,6
+geochemistry,sample_id,Unknown,"21, 35, 50, 51, 54, 6, 7, 76"
+geochemistry,analyte,Unknown,"21, 35, 6, 76"
+geochemistry,unit,Unknown,"21, 35, 51, 54, 6, 76"
+geochemistry,method,Unknown,"21, 35, 50, 51, 54, 6, 7, 76"
+geochemistry,context,Unknown,"35, 6, 76"
+metallogeny,mineralisation_type,gold,"13, 50, 6"
+metallogeny,associated_structures,['Markoye Shear Zone'],6
+metallogeny,host_rocks,"['meta-volcanoclastic rocks', 'meta-sedimentary rocks']",6
+metallogeny,ore_minerals,['gold'],"13, 43, 50, 54, 6, 7"
+metallogeny,alteration,contact metamorphosed to hornblende hornfels facies,6
+metadata,title,Tectonic History of the Markoye Fault,7
+geology,formation,Markoye fault,7
+geology,minerals,['gold'],7
+geology,structures,"['westerly-dipping thrust', 'east-verging thrust', 'dextral strike-slip system', 'sinistral fault system']",7
+geology,tectonic_setting,Eburnean Orogeny,"11, 12, 13, 49, 51, 7"
+geochronology,age_Ma,2150.0,"54, 7"
+geochronology,error_Ma,55.0,"54, 7"
+geochronology,evidence,Tectonic interpretation based on previous studies,7
+geochemistry,analyte,gold,"50, 51, 7"
+geochemistry,unit,g/t,7
+geochemistry,context,Associated with late Neo-Proterozoic Pan African tectonics,7
+metallogeny,mineralisation_type,gold mineralization,"54, 7"
+metallogeny,associated_structures,['Markoye fault'],"14, 34, 7, 8"
+metallogeny,host_rocks,['Boromo-Goren Greenstone belt'],7
+metallogeny,alteration,Unknown,"21, 35, 7, 76"
+metadata,title,Geological Study of Burkina Faso,"21, 8"
+geology,formation,Sahel region,8
+geology,rock_types,"['alluvial plains', 'sand dunes']",8
+geology,structures,['Markoye fault'],8
+geology,tectonic_setting,Variable climate with wet and dry seasons,8
+metallogeny,mineralisation_type,gold metallogenesis,8
+metadata,title,Geological Map of the West African Craton,9
+metadata,author,Thièblemont et al.,9
+metadata,year,2004,"10, 12, 14, 20, 60, 9"
+geology,region,West African Craton,"11, 15, 20, 51, 9"
+geology,formation,Baoule-Mossi Domain,9
+geology,tectonic_setting,Palaeoproterozoic,"10, 9"
+metadata,title,Regional Geology,10
+metadata,author,Thiéblemont et al.,10
+geology,region,"Leo-Man Rise, Burkina Faso",10
+geology,rock_types,"['meta-sedimentary', 'meta-volcanic', 'granitoids']",10
+geology,structures,['Eburnean Orogeny'],10
+geochronology,method,U-Pb zircon,10
+geochronology,age_Ma,3542.0,10
+geochronology,rock_unit,Kénéma-Man domain,10
+geochronology,evidence,dated at 3542-3535 Ma,10
+metallogeny,host_rocks,"['Birimian sequences', 'granitoids']",10
+metadata,title,Birimian Sequences and Intrusive Complexes,11
+metadata,author,Milési et al.,"11, 48"
+metadata,year,1989,11
+geology,rock_types,"['dacitic/rhyodacitic meta-volcanoclastic sediments', 'meta-greywacke', 'black meta-siltstone', 'manganiferous chert', 'argillite', 'shale', 'chemical meta-sedimentary rocks', 'tholeiites', 'pillow lavas', 'basalts', 'intermediate lavas', 'pyroclastic rocks', 'tonalite', 'granodiorite', 'diorite', 'meta-diorite']",11
+geology,structures,"['unconformity', 'discordance', 'interbedded units']",11
+metadata,title,Geological and Geochronological Studies in West Africa,12
+metadata,author,Various,12
+metadata,supervisor,Not specified,"12, 49"
+metadata,institution,Not specified,"12, 13, 49"
+metadata,location,West Africa,12
+geology,region,West Africa,12
+geology,formation,Birimian,"12, 49"
+geology,rock_types,"['granodiorite', 'tonalite', 'quartz-diorite', 'granite', 'gabbro', 'meta-gabbro', 'diorite', 'trondhjemite', 'dolerite']",12
+geology,minerals,"['chlorite', 'muscovite', 'hornblende', 'andalusite', 'sericite']",12
+geology,structures,"['shear zones', 'contact metamorphism', 'banded', 'foliated']",12
+geochronology,sample_id,Not specified,"12, 13, 49"
+geochronology,method,U-Pb dating,12
+geochronology,age_Ma,2200.0,12
+geochronology,error_Ma,130.0,12
+geochronology,rock_unit,Birimian sequences,"12, 51"
+geochronology,evidence,Intrusion of granitoids,12
+geochemistry,sample_id,Not specified,"12, 13, 49"
+geochemistry,analyte,Not specified,"12, 49"
+geochemistry,unit,Not specified,"12, 49"
+geochemistry,method,Not specified,"12, 13, 49"
+geochemistry,context,Not specified,"12, 49"
+metallogeny,mineralisation_type,Not specified,12
+metallogeny,associated_structures,['shear zones'],12
+metallogeny,host_rocks,"['Birimian sequences', 'TTG suite']",12
+metallogeny,ore_minerals,['Not specified'],12
+metallogeny,alteration,Not specified,12
+metadata,title,Tarkwa Group and its Geological Context,13
+metadata,author,Leube et al.,13
+metadata,year,1990,"13, 57"
+metadata,supervisor,Milési et al.,13
+metadata,location,Ghana and Burkina Faso,13
+geology,formation,Tarkwa Group,"13, 15, 48, 52"
+geology,rock_types,"['meta-conglomerate', 'meta-sandstone', 'meta-pelite', 'phyllite']",13
+geology,minerals,"['quartz', 'muscovite', 'magnetite', 'ilmenite', 'rutile', 'tourmaline']",13
+geology,structures,['sinistral shears'],13
+geochronology,method,Not specified,"13, 49"
+geochronology,rock_unit,Tarkwa Group,"13, 15"
+geochronology,evidence,Deformation and metamorphism during Eburnean Orogeny,13
+geochemistry,analyte,heavy minerals,13
+geochemistry,context,Matrix of meta-conglomerate unit,13
+metallogeny,associated_structures,['sinistral shears'],13
+metallogeny,host_rocks,"['meta-conglomerate', 'meta-sandstone']",13
+metallogeny,alteration,low grade metamorphism,13
+metadata,title,Geological Study of the Boromo-Goren Greenstone Belt,14
+metadata,author,Hein et al.,14
+geology,region,Boromo-Goren Greenstone Belt,14
+geology,minerals,"['gold', 'diamond', 'iron', 'manganese', 'silver', 'lead', 'zinc']",14
+geology,structures,"['isoclinal folds', 'sinistral faults', 'dextral faults', 'Wabi-Tampelse Shear Zone', 'mesoscopic folds']",14
+geology,tectonic_setting,E-W crustal shortening and N-S crustal shortening,14
+metallogeny,mineralisation_type,gold and manganese deposits,14
+metallogeny,host_rocks,"['Eburnean granitoids', 'Tarkwa Group meta-sedimentary units']",14
+metallogeny,ore_minerals,"['gold', 'manganese']",14
+metadata,title,Geological Study of the West African Craton,15
+metadata,author,Foster and Piper,15
+metadata,year,2003,15
+metadata,location,West African Craton,"15, 20, 51"
+geology,rock_types,"['meta-sedimentary units', 'pegmatite', 'quartz']",15
+geology,minerals,"['tourmaline', 'plagioclase', 'topaz', 'gold', 'copper', 'malachite']",15
+geology,structures,"['brittle-ductile shear zones', 'sheeted quartz veins', 'stockwork quartz veins', 'buck quartz veins']",15
+geology,tectonic_setting,Eburnean tectonothermal event,15
+geochronology,evidence,Gold mineralization associated with Eburnean event,15
+metallogeny,mineralisation_type,gold and copper mineralization,15
+metallogeny,associated_structures,"['brittle-ductile shear zones', 'sheeted quartz veins', 'stockwork quartz veins', 'buck quartz veins']",15
+metallogeny,host_rocks,"['meta-sedimentary units', 'pegmatite']",15
+metallogeny,ore_minerals,"['gold', 'copper', 'malachite']",15
+metadata,title,Methodology,17
+geology,region,Markoye fault area,17
+geology,structures,['fault'],"17, 43"
+metadata,title,Lithologies,19
+geology,region,Essakane,"19, 25, 36"
+geology,formation,Greywacke-Siltstone sequence,19
+geology,rock_types,"['metamorphosed volcano-sedimentary sequences', 'sedimentary sequences', 'granodiorite-tonalite', 'pyroxenite-gabbro', 'granite (adamellite)', 'dolerite', 'greywacke', 'siltstone', 'sandstone', 'shale']",19
+geology,minerals,"['hornblende', 'cordierite', 'gold', 'arsenopyrite', 'quartz', 'carbonate']",19
+geology,structures,"['schistosity', 'mylonite-ultra-mylonite', 'cataclasite', 'L-tectonite', 'graded bedding', 'scour and fill', 'foliation', 'bedding', 'crosscutting quartz veins']",19
+metallogeny,mineralisation_type,gold-arsenopyrite,19
+metallogeny,associated_structures,['crosscutting quartz-carbonate veins'],19
+metallogeny,host_rocks,['competent greywacke sandstone units'],19
+metallogeny,ore_minerals,"['gold', 'arsenopyrite']",19
+metallogeny,alteration,alteration zone surrounding the quartz-carbonate veins,19
+metadata,title,Geological Study of the Essakane Region,20
+metadata,author,Navas et al.,20
+geology,formation,Essakane Formation,20
+geology,rock_types,"['greywacke sandstone', 'volcanoclastic greywacke', 'conglomerate', 'laterite']",20
+geology,minerals,"['quartz', 'feldspar', 'hornblende', 'chert', 'granite', 'granodiorite', 'gabbro', 'andesite', 'basalt']",20
+geology,structures,"['sandballs', 'slumps', 'cross-bedding', 'mud-cracks', 'ripple marks', 'graded beds']",20
+geology,tectonic_setting,Tectonically stable areas,20
+geology,formation,Upper Cretaceous to Eocene,21
+geology,rock_types,"['biotite granite', 'adamellite', 'pyroxenite', 'gabbro']",21
+geology,minerals,"['potassium feldspar', 'quartz', 'plagioclase', 'biotite', 'hornblende', 'pyroxene', 'olivine']",21
+geology,structures,"['foliated', 'lineated', 'dykes', 'spider-type veins', 'contraction fractures']",21
+geology,tectonic_setting,NE-trending with NW-trending dykes,21
+geochronology,age_Ma,70.0,21
+geochronology,rock_unit,laterite,21
+geochronology,evidence,in-situ formation,21
+geochemistry,context,alluvial profile,21
+metallogeny,mineralisation_type,Unknown,"21, 76"
+metallogeny,host_rocks,"['biotite granite', 'adamellite', 'pyroxenite', 'gabbro']",21
+geology,rock_types,"['granodiorite', 'tonalite', 'dolerite']",22
+geology,minerals,"['plagioclase', 'quartz', 'hornblende', 'biotite', 'clinopyroxene', 'magnetite', 'tourmaline', 'topaz']",22
+geology,structures,"['anastomosing cleavage', 'pseudotachylyte veins', 'pegmatite vein']",22
+metadata,title,Stromatolites,23
+metadata,location,south of Gosséy,23
+geology,rock_types,['sandstone'],23
+geology,structures,['stromatolites'],23
+metadata,title,Sand ball,24
+geology,formation,meta-volcanoclastic greywacke,24
+geology,rock_types,"['greywacke', 'meta-greywacke']",24
+geology,minerals,['fuchsite'],24
+geology,structures,"['bed layering', 'interbedded layers', 'slump flow']",24
+geology,rock_types,['meta-volcanoclastic greywacke'],25
+geology,minerals,"['quartz', 'plagioclase', 'chlorite']","25, 26"
+geology,structures,['ripple marks'],25
+geochronology,sample_id,005,25
+geology,rock_types,['conglomerate'],26
+geology,rock_types,"['adamellite', 'quartz', 'biotite', 'muscovite']",27
+geology,minerals,"['K-feldspar', 'plagioclase', 'quartz', 'biotite', 'muscovite']",27
+geology,rock_types,['gabbro'],28
+geology,minerals,"['plagioclase', 'amphibole', 'clinopyroxene', 'biotite', 'sulphides']",28
+geology,formation,YMC,29
+geology,rock_types,['pyroxenite'],29
+geology,minerals,"['clinopyroxene', 'nepheline']",29
+geology,rock_types,"['granodiorite', 'tonalite']",30
+geology,minerals,"['plagioclase', 'quartz', 'hornblende', 'biotite']",30
+geology,rock_types,['dolerite'],31
+geology,minerals,"['plagioclase', 'clinopyroxene', 'mignetite', 'quartz', 'alkali-feldspar']",31
+geology,structures,['granophyric texture'],31
+metadata,title,Structure,32
+metadata,author,Rogers and Dong,32
+metadata,year,2000,32
+geology,rock_types,"['meta-sedimentary units', 'quartz-carbonate veins']",32
+geology,structures,"['Markoye fault', 'NW-trending folds (F1)', 'NE-trending folds (F2)', 'thrusts', 'strike-slip faults', 'stockwork', 'breccia']",32
+geology,tectonic_setting,SW transport during formation of F1 and thrusts,32
+metadata,title,D2 Deformation Event,33
+metadata,location,Salmossi village,33
+geology,region,Salmossi,33
+geology,formation,Mukosi Mylonite Zone,33
+geology,rock_types,"['meta-sedimentary rocks', 'granitoids']",33
+geology,minerals,"['cordierite', 'hornblende']",33
+geology,structures,"['folds (F2)', 'mylonite', 'ultra-mylonite', 'pseudotachylyte veins', 'buck quartz-carbonate veins', 'cataclasite', 'quartz-chlorite shears', 'L-S tectonites']",33
+geology,tectonic_setting,SE-NW crustal shortening,33
+metadata,title,Geological Analysis of Pseudotachylyte and Cataclasite Veins,34
+metadata,author,Davis and Reynolds,34
+metadata,year,1996,34
+metadata,location,Tin Agadel and Salmossi village,34
+geology,region,Tin Agadel and Salmossi village,34
+geology,rock_types,"['adamellite', 'granodiorite', 'tonalite', 'quartz-chlorite schist']",34
+geology,minerals,"['K-feldspar', 'quartz', 'chlorite', 'arsenopyrite', 'malachite']",34
+geology,structures,"['pseudotachylyte veins', 'cataclasite veins', 'quartz-chlorite shears', 'mesofaults']",34
+geology,tectonic_setting,high strain conditions,34
+metallogeny,mineralisation_type,quartz-carbonate veins,34
+metallogeny,host_rocks,['quartz-chlorite schist'],"34, 54"
+metallogeny,ore_minerals,"['arsenopyrite', 'malachite']",34
+metallogeny,alteration,"highly fractured, boudinaged, lineated",34
+metadata,title,Structural Events and Mineralization in the Markoye Region,35
+metadata,location,Markoye Region,35
+geology,region,Markoye Region,35
+geology,formation,Markoye Shear Zone,35
+geology,rock_types,"['meta-sedimentary rocks', 'granitoid rocks']",35
+geology,minerals,"['quartz', 'chlorite', 'tourmaline', 'sulphide', 'gold']",35
+geology,structures,"['NW-trending folds', 'NE-trending folds', 'thrusts', 'mylonite zone', 'pseudotachylyte veins', 'quartz iron-rich cataclasite veins', 'C-S foliation', 'en echelon quartz-carbonate veins', 'mineral lineation', 'stretching lineation', 'slickenfibre lineation']",35
+geology,tectonic_setting,SW-directed compression,35
+geochronology,evidence,Unknown,"35, 76"
+metallogeny,mineralisation_type,sulphide ± gold mineralization,35
+metallogeny,associated_structures,"['quartz-chlorite shears', 'stockwork', 'breccia veins']",35
+metallogeny,host_rocks,"['meta-sedimentary rocks', 'granitoid rocks']",35
+metallogeny,ore_minerals,"['sulphide', 'gold']",35
+geology,rock_types,"['stockwork', 'breccia', 'sheeted quartz-carbonate veins']",36
+geology,structures,['asymmetric open anticline'],36
+geology,structures,"['fold axis', 'bedding']",37
+geology,rock_types,['mylonite'],38
+geology,minerals,['cordierite'],38
+geology,structures,['sigmoidal porphyroclasts'],38
+geology,rock_types,"['adamellite', 'granodiorite']",42
+geology,structures,['pseudotachylyte veins'],42
+geology,rock_types,"['cataclasite', 'quartz', 'carbonate']",43
+geology,minerals,"['quartz', 'gold']",43
+metadata,title,Discussion,47
+geology,rock_types,"['meta-volcanoclastic greywacke', 'black shale', 'siltstone', 'meta-conglomerate']",47
+geology,minerals,"['hornblende', 'fuchsite']",47
+geology,structures,"['graded bedding', 'flaser bedding', 'cross-bedding', 'fine laminations', 'ripple marks', 'slumps', 'scour and fill']",47
+geology,tectonic_setting,shallow marine continental shelf at a delta front setting,47
+metadata,title,Geological Study of the Tarkwa Group,48
+metadata,year,2002,48
+geology,region,Tarkwa,48
+geology,rock_types,"['conglomerate', 'meta-conglomerate', 'basalt', 'andesite', 'granodiorite', 'granite', 'volcanoclastic meta-sediments', 'chert', 'greywacke']",48
+geology,minerals,"['quartz', 'schist', 'quartzite']",48
+geology,structures,"['veins', 'xenoliths', 'pseudotachylyte']",48
+geology,tectonic_setting,syn-Eburnean,48
+metadata,title,Geological Study of the Markoye Shear Zone,49
+metadata,author,Ouedraogo and Prost,49
+metadata,location,"Markoye, Burkina Faso",49
+geology,region,Markoye,49
+geology,rock_types,"['adamellite (granite)', 'pyroxenite-gabbro', 'granodiorite-tonalite', 'dolerite dykes', 'meta-sedimentary rocks', 'sandstone', 'siltstone']",49
+geology,minerals,"['gold-bearing sulphides', 'tourmaline']",49
+geology,structures,"['NW-trending folds', 'NE-trending folds', 'NE-trending cleavage', 'C-S foliation', 'shears', 'faults', 'mylonite', 'pseudotachylyte veins', 'quartz iron-rich cataclasite veins', 'buck quartz-carbonate veins', 'quartz-chlorite shears']",49
+geochronology,rock_unit,Not specified,49
+geochronology,evidence,Not specified,49
+metallogeny,mineralisation_type,gold-bearing,49
+metallogeny,associated_structures,['dilational structures'],49
+metallogeny,host_rocks,"['granodiorite-tonalite', 'meta-sedimentary rocks']",49
+metallogeny,ore_minerals,['gold-bearing sulphides'],49
+metallogeny,alteration,silica-rich,49
+metadata,title,Tectonic history and geological features,50
+metadata,location,Essakane goldfield,"50, 54"
+geology,region,Essakane goldfield,"50, 54"
+geology,formation,Birimian sediments,50
+geology,rock_types,"['granite', 'granodiorite', 'basalt', 'andesite', 'conglomerate', 'greywackes sandstone', 'shale', 'siltstone', 'pyroxenite', 'gabbro', 'adamellite']",50
+geology,minerals,"['quartz', 'chlorite', 'tourmaline']",50
+geology,structures,"['MMZ', 'MSZ', 'pseudotachylyte veins', 'quartz-chlorite shear zones']",50
+geology,tectonic_setting,medium to high grade metamorphic conditions,50
+geochronology,method,heavy or light mineral analysis,50
+geochronology,rock_unit,Birimian sediments,50
+geochronology,evidence,relative chronology based on stratigraphic sequences,50
+geochemistry,context,gold bearing quartz-chlorite shear zones,50
+metallogeny,associated_structures,['quartz-chlorite shear zones'],50
+metallogeny,host_rocks,['Birimian sediments'],50
+metallogeny,alteration,contact metamorphism to hornblende-hornfels facies,50
+metadata,title,Development of NW-trending asymmetric folds and thrusts during SW-directed compression,51
+geology,rock_types,"['granodiorite', 'tonalite', 'meta-sedimentary rocks', 'dolerite']",51
+geology,minerals,"['hornblende', 'chlorite', 'tourmaline', 'gold', 'sulphides']",51
+geology,structures,"['NW-trending asymmetric folds (F1)', 'NE-trending foliation (S2)', 'NE-trending folds (F2)', 'Mukosi Mylonite Zone (MMZ)', 'pseudotachylyte veins', 'quartz-chlorite shears']",51
+geochronology,method,Absolute geochronology,51
+geochronology,age_Ma,Unknown,51
+geochronology,error_Ma,Unknown,51
+geochronology,evidence,Confusing geochronological data,51
+geochemistry,value,Unknown,"51, 54"
+geochemistry,context,Spatial and temporal relationship with quartz-chlorite shears,51
+metallogeny,mineralisation_type,Gold mineralization,51
+metallogeny,associated_structures,"['quartz-chlorite shears', 'alteration zones']",51
+metallogeny,host_rocks,['meta-sedimentary rocks'],51
+metallogeny,ore_minerals,"['gold', 'sulphides']",51
+metallogeny,alteration,Contact metamorphism to hornblende-hornfels facies,51
+geology,rock_types,"['Birimian sequences', 'TTG suite plutons', 'granite suite rocks', 'tonalite suite rocks']",52
+geology,tectonic_setting,syn- to post-Eburnean Orogeny,52
+geochronology,evidence,Ages for Tarkwa Group are the same as Birimian sequences.,52
+metallogeny,host_rocks,['tonalite'],52
+metadata,title,Conclusion,54
+geology,formation,Birimian volcanosedimentary and sedimentary sequences,54
+geology,rock_types,"['granodiorite-tonalite', 'pyroxenite-gabbro', 'granite (adamellite)', 'dolerite']",54
+geology,minerals,"['hornblende', 'quartz', 'tourmaline']",54
+geology,structures,"['Markoye Shear Zone (MSZ)', 'mylonite', 'pseudotachylyte veins', 'L-tectonites', 'quartz iron-rich cataclasite veins', 'quartz-carbonate veins', 'asymmetric NW-trending folds', 'NE-trending folds']",54
+geology,tectonic_setting,"pre-, syn-, to post- Eburnean Orogeny",54
+geochronology,evidence,related to the Eburnean Orogeny,54
+geochemistry,analyte,sulphides,54
+geochemistry,context,breccia veins,54
+metallogeny,associated_structures,['Markoye Shear Zone (MSZ)'],54
+metallogeny,alteration,greenschist metamorphic facies,54
+metadata,title,La “ceinture” protérozoïque inférieur de Boromo-Goren (Burkina Faso): un exemple d’interférence entre deux phases transcurrentes éburnéennes,57
+metadata,author,"Feybesse, J.L., Milési, J.P., Ouedraogo, M.F., Prost, A.",57
+metadata,institution,Comptes Rendus de L’Académie des Sciences,57
+geology,formation,Boromo-Goren,57
+geology,structures,['transcurrent'],57
+geology,tectonic_setting,Eburnean,57
+metadata,title,"Vein mineralization at the Damang gold mine, Ghana: controls on mineralization",60
+metadata,author,"Tunks, A.J., Selley, D., Rogers, J.R., Brabham, G.",60
+metadata,location,Ghana,60
+geology,region,Ghana,60
+geology,formation,Greywacke-siltsone sequence,61
+geology,rock_types,"['Subcrop, siltstone', 'Greywacke-siltsone sequence', 'Schistosed sandstone', 'Volcanoclastic greywacke', 'Massive volcanoclastic greywacke']",61
+geology,structures,"['Bedding', 'Cleavage', 'Quartz vein', 'Dyke']",61
+geology,rock_types,"['Volcanoclastic greywacke', 'Massive volcanoclastic greywacke', 'Felsic Granite', 'Gabbro dyke', 'Hornfels', 'Buck-quartz carbonate vein']",62
+geology,structures,"['DYKE', 'E', 'BEDDING', 'TREND', 'CLEAVAGE', 'LINEATION']",62
+geology,rock_types,"['Buck-quartz carbonate vein', 'Chlorite mica schist']",63
+geology,structures,"['CLEAVAGE', 'FAULT', 'LINEATION', 'TREND']",63
+geology,rock_types,['Buck-quartz carbonate vein'],"64, 76"
+geology,structures,['LINEATION'],"64, 67"
+geology,rock_types,"['Pyroxenite', 'Gabbro', 'Gabbro dyke', 'Contact aureole hornfels', 'Hornfels', 'Laterite', 'Cataclasite']",65
+geology,rock_types,"['Chlorite quartz mica schist', 'Pyroxenite', 'Laterite', 'Meta-sediments']",66
+geology,structures,"['LINEATION', 'CLEAVAGE']",66
+geology,rock_types,"['Buck-quartz carbonate vein', 'Meta-sediments']",67
+geology,rock_types,"['Buck-quartz carbonate vein', 'Gabbro', 'Laterite', 'Meta-lithogreywacke', 'Hornblende Hornfels', 'Spotted Hornfels', 'Meta-gritvolcanoclastic greywacke', 'Volcanoclastic greywacke']",68
+geology,structures,"['CLEAVAGE', 'TREND']",68
+geology,rock_types,"['Hornfels', 'sandstone', 'breccia', 'Gabbro-Pyroxenite', 'Granodiorite', 'Gabbro-norite']",69
+geology,structures,"['CLEAVAGE', 'FAULT', 'LINEATION', 'ELONGATION']",69
+geology,rock_types,['Granodiorite'],70
+geology,structures,"['CLEAVAGE', 'LINEATION', 'FAULT']","70, 72"
+geology,formation,Mylonite-ultramylonite zone,71
+geology,rock_types,"['Mylonite', 'Ultramylonite', 'Mylonitised granitoid']",71
+geology,structures,"['CLEAVAGE', 'LINEATION']",71
+geology,rock_types,['Mylonitised granitoid'],72
+metadata,title,Geological Observations,"73, 76"
+metadata,supervisor,N/A,73
+metadata,institution,N/A,73
+metadata,location,N/A,73
+geology,region,N/A,73
+geology,formation,N/A,73
+geology,rock_types,"['Adamelite granite', 'Tambao granodiorite', 'Buck-quartz carbonate vein', 'Chlorite mica schist', 'Mylonitised ??', 'Tonalite', 'Granodiorite', 'Laterite', 'Hornfels', 'Gabbro', 'Norite']",73
+geology,structures,"['LINEATION', 'CLEAVAGE', 'TREND', 'ELONGATION']",73
+geology,tectonic_setting,N/A,73
+geochronology,sample_id,N/A,73
+geochronology,method,N/A,73
+geochronology,rock_unit,N/A,73
+geochronology,evidence,N/A,73
+geochemistry,sample_id,N/A,73
+geochemistry,analyte,N/A,73
+geochemistry,unit,N/A,73
+geochemistry,method,N/A,73
+geochemistry,context,N/A,73
+metallogeny,mineralisation_type,N/A,73
+metallogeny,alteration,N/A,73
+geology,rock_types,"['Norite', 'Laterite', 'Mylonitised', 'Noritic granodiorite-tonalite', 'Granodiorite-tonalite', 'Proto L-tectonite zone']",74
+geology,structures,"['CLEAVAGE', 'LINEATION', 'TREND']",74
+geology,rock_types,"['Granodiorite-tonalite', 'Chlorite-quartz mica schist', 'Schistosed', 'Quartz-carbonate vein', 'Tonalite', 'Mylonite']",75
+geology,structures,"['CLEAVAGE', 'LINEATION', 'TREND', 'ELONGATION']",75
+metadata,location,Unknown,76
+geology,region,Unknown,76
+geology,formation,Mylonitised Adamelite granite,76
+geology,rock_types,"['Mylonitised Adamelite granite', 'Siltstone', 'Sandstone', 'Greywacke', 'Shale']",76
+geology,structures,"['CLEAVAGE', 'FRACTURE', 'LINEATION', 'BEDDING', 'TREND']",76
+geology,tectonic_setting,Unknown,76
+geology,formation,Buck-quartz carbonate vein,76
+geology,structures,"['TREND', 'LINEATION']",76
+geology,rock_types,"['Buck-quartz carbonate vein', 'Sandstone greywacke', 'Siltstone']",77
+geology,structures,"['CLEAVAGE', 'TREND', 'LINEATION']",77
+geology,rock_types,"['Sandstone', 'greywacke', 'siltstone', 'volcanoclastic']",78
+geology,structures,"['anticline', 'fault']",78
